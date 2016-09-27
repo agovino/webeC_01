@@ -1,0 +1,25 @@
+p {
+    background-color:#C1EEF4;
+    font-family: Consolas;
+    border: 5px solid gold;
+    border-width: medium;
+    border-color: aquamarine;
+    text-align: left;
+    margin: 10px 10px 10px 10px;
+}
+
+h1{
+    margin-left: 10px;
+    font-family: Consolas;
+    border-width: medium;
+    border-color: aquamarine;
+    color: #00BCD4;
+}
+
+h3 {
+    margin-left: 10px;
+    font-family: Consolas;
+    border-width: medium;
+    border-color: brown;
+    color: firebrick;
+}
