@@ -37,8 +37,8 @@
       <file leaf-file-name="coffee.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/coffee/coffee.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="504">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -218,28 +218,6 @@
               <option name="myItemId" value="webeC_01" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week06_07" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coffee" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -361,7 +339,7 @@
       <workItem from="1478083833692" duration="21000" />
       <workItem from="1478083905972" duration="886000" />
       <workItem from="1478092977841" duration="604000" />
-      <workItem from="1478093830449" duration="2502000" />
+      <workItem from="1478093830449" duration="3112000" />
     </task>
     <task id="LOCAL-00001" summary="week02">
       <created>1474979183473</created>
@@ -475,11 +453,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477918234906</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="week07">
+      <created>1478096669744</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1478096669744</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67754000" />
+    <option name="totallyTimeSpent" value="68364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -650,8 +635,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/coffee/coffee.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="504">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="33" />
           <folding />
         </state>
       </provider>
