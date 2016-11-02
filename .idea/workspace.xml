@@ -23,68 +23,74 @@
     <favorites_list name="webeC_01" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="googleMap.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/googleMap.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coffee.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/coffee/coffee.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.69034934">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="20" column="28" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="640">
+                  <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+                  <folding>
+                    <element signature="n#!!block;n#whatYouWantContent#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="673">
+                  <caret line="102" column="104" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="104" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <element signature="n#!!block;n#show#0" expanded="false" />
+                    <element signature="n#!!block;n#hide#0" expanded="false" />
+                    <element signature="n#!!block;n#changeToWhoScreen#0" expanded="false" />
+                    <element signature="n#!!block;n#changeToWhatScreen#0" expanded="false" />
+                    <element signature="n#!!block;n#changeToWhereScreen#0" expanded="false" />
+                    <element signature="n#!!block;n#whatContent#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="527">
+                  <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="tsconfig.json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -94,10 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webeC_01/week05/ein_ausblenden.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/ein_ausblenden_button.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week04/functions_basic.js" />
-        <option value="$PROJECT_DIR$/webeC_01/week04/index.html" />
         <option value="$PROJECT_DIR$/webeC_01/week04/function_literal.js" />
         <option value="$PROJECT_DIR$/webeC_01/week04/object.html" />
         <option value="$PROJECT_DIR$/webeC_01/week04/object_basic.js" />
@@ -145,6 +147,10 @@
         <option value="$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/index.html" />
         <option value="$PROJECT_DIR$/webeC_01/week06_07/coffee/coffee.html" />
         <option value="$PROJECT_DIR$/webeC_01/week06_07/coffee/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/js/app.js" />
       </list>
     </option>
   </component>
@@ -300,6 +306,22 @@
               <option name="myItemId" value="stuff" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="w2eat_patrik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WhereToEat_webeC_SimonGottstein" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WhereToEat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -316,6 +338,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="week06_07" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stuff" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,37 +381,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week05" />
+              <option name="myItemId" value="week06_07" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webeC" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
+              <option name="myItemId" value="agos_w2Eat" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week05" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uebung01" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -403,59 +407,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week05" />
+              <option name="myItemId" value="week06_07" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webeC" />
+              <option name="myItemId" value="agos_w2Eat" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="uebung01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week05" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week04" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemyTutorial" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -593,7 +553,7 @@
       <workItem from="1478083833692" duration="21000" />
       <workItem from="1478083905972" duration="886000" />
       <workItem from="1478092977841" duration="604000" />
-      <workItem from="1478093830449" duration="7607000" />
+      <workItem from="1478093830449" duration="12875000" />
     </task>
     <task id="LOCAL-00001" summary="week02">
       <created>1474979183473</created>
@@ -721,20 +681,37 @@
       <option name="project" value="LOCAL" />
       <updated>1478097278757</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="week07">
+      <created>1478102984366</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1478102984366</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72859000" />
+    <option name="totallyTimeSpent" value="78127000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23134328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09968017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2949002" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5678337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -747,7 +724,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -813,8 +789,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/jQuery_DOM_Fun/js/jquery.min.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/jquery.min.js" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/jQuery_DOM_Fun/jQ_meets_DOM.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap02/anfang/js/jquery-3.1.1.js" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/jQuery_DOM_Fun/js/jquery-3.1.1.js" />
@@ -866,28 +840,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/lib/jquery-3.1.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="70" />
           <folding />
         </state>
       </provider>
@@ -900,11 +856,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="102" column="104" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="104" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#show#0" expanded="false" />
+            <element signature="n#!!block;n#hide#0" expanded="false" />
+            <element signature="n#!!block;n#changeToWhoScreen#0" expanded="false" />
+            <element signature="n#!!block;n#changeToWhatScreen#0" expanded="false" />
+            <element signature="n#!!block;n#changeToWhereScreen#0" expanded="false" />
+            <element signature="n#!!block;n#whatContent#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#whatYouWantContent#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
