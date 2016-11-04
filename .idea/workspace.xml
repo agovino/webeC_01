@@ -18,55 +18,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="-1631">
-                    <caret line="95" column="29" selection-start-line="91" selection-start-column="0" selection-end-line="189" selection-end-column="17" />
-                    <folding>
-                      <element signature="n#!!doc" expanded="true" />
-                      <element signature="n#!!block;n#show#0" expanded="false" />
-                      <element signature="n#!!block;n#hide#0" expanded="false" />
-                      <element signature="n#!!block;n#changeToWhoScreen#0" expanded="false" />
-                      <element signature="n#!!block;n#changeToWhatScreen#0" expanded="false" />
-                      <element signature="n#!!block;n#changeToWhereScreen#0" expanded="false" />
-                      <element signature="n#!!block;n#whatContent#0" expanded="false" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="webeC_01" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="listen.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/listen.html">
+      <file leaf-file-name="bbc.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/bbcWorkshop/bbc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test02.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Test02.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="372">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -78,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -90,24 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/lindaDaten/03/faq.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/marco/faq.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/lindaDaten/04/text_html.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/lindaDaten/04/prepend_append_after_before.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/lindaDaten/04/begruessung.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/lindaDaten/04/alterermitteln.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/object_prototype.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/object_prototyp.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/object_prototyp.js" />
-        <option value="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/call_apply.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/call_apply.js" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_JSON/tsconfig.json" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_JSON/index_json.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_JSON/tutorial.txt" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/index.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/data.txt" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/script.js" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/requestAsynchron.txt" />
         <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/asynchronous.html" />
         <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/asynchronous.js" />
         <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/linda_jQuery/05/js_ereignisse.html" />
@@ -141,6 +85,24 @@
         <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/LIST.html" />
         <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/listen.html" />
         <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Test02.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/my-webpage.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Form.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Table.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Entities.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/htmlWithCss.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Div.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Floating.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Positioning.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Pos_absolute.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/margins.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/padding.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Borders.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Fonts.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/AlineText.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/FontStyle.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/StylingLinks.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/bbcWorkshop/bbc.html" />
       </list>
     </option>
   </component>
@@ -158,7 +120,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="MAMP 5.6.25" />
   <component name="ProjectFrameBounds">
     <option name="y" value="3" />
-    <option name="width" value="1383" />
+    <option name="width" value="1393" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -187,6 +149,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,90 +171,9 @@
               <option name="myItemId" value="webeC_01" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WORKSHOP_3" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WORKSHOP_3" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week06_07" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stuff" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week06_07" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,19 +186,19 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\WORKSHOP_3\udemy\Web2Course" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week06_07\stuff\w2eat_patrik\WhereToEat_webeC_SimonGottstein\WhereToEat\lib" />
+      <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/lib" />
+      <recent name="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/anfang/js" />
+      <recent name="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap11/anfang/js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week06_07\agos_w2Eat" />
       <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01" />
       <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/lib" />
       <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/app" />
       <recent name="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/anfang" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week06_07\stuff\w2eat_patrik\WhereToEat_webeC_SimonGottstein\WhereToEat\lib" />
-      <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/lib" />
-      <recent name="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/anfang/js" />
-      <recent name="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap11/anfang/js" />
-      <recent name="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap10/ende/js" />
     </key>
   </component>
   <component name="RunManager">
@@ -413,7 +295,9 @@
       <workItem from="1478093830449" duration="13321000" />
       <workItem from="1478120768137" duration="1358000" />
       <workItem from="1478122143423" duration="1394000" />
-      <workItem from="1478161235290" duration="4814000" />
+      <workItem from="1478161235290" duration="6668000" />
+      <workItem from="1478180024296" duration="5131000" />
+      <workItem from="1478241357754" duration="11624000" />
     </task>
     <task id="LOCAL-00001" summary="week02">
       <created>1474979183473</created>
@@ -576,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478108679024</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="week08">
+      <created>1478172692999</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1478172692999</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86139000" />
+    <option name="totallyTimeSpent" value="104748000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,13 +483,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="3" width="1383" height="1047" extended-state="0" />
+    <frame x="0" y="3" width="1393" height="1047" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30612245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3135784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2949002" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5678337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -611,7 +503,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -678,25 +569,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap05/anfang/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap05/ende/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap06/anfang/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap06/ende/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap07/anfang/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap08/anfang/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap08/ende/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap09/anfang/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap09/ende/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap10/ende/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap11/anfang/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap07/ende/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/ende/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/anfang/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/application.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/anfang/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/anfang/jQuery01.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/lib/my_app.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/lib/jquery-3.1.1.js" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/data/data.json" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/index.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/font/font-awesome/css/font-awesome.css" />
@@ -725,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -733,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="168" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,23 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1631">
-          <caret line="95" column="29" selection-start-line="91" selection-start-column="0" selection-end-line="189" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="n#!!block;n#show#0" expanded="false" />
-            <element signature="n#!!block;n#hide#0" expanded="false" />
-            <element signature="n#!!block;n#changeToWhoScreen#0" expanded="false" />
-            <element signature="n#!!block;n#changeToWhatScreen#0" expanded="false" />
-            <element signature="n#!!block;n#changeToWhereScreen#0" expanded="false" />
-            <element signature="n#!!block;n#whatContent#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2618">
           <caret line="154" column="1" selection-start-line="154" selection-start-column="1" selection-end-line="154" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3825">
           <caret line="225" column="6" selection-start-line="225" selection-start-column="6" selection-end-line="225" selection-end-column="6" />
-          <folding>
-            <marker date="1478170450169" expanded="true" signature="6551:6568" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,26 +646,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!block;n#whatYouWantContent#0" expanded="false" />
-            <marker date="1478162476013" expanded="false" signature="7596:7795" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/LIST.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/LIST.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -826,15 +661,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/listen.html">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="95" column="29" selection-start-line="91" selection-start-column="0" selection-end-line="189" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Entities.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -842,6 +689,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/listen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/my-webpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/synthesizer_ago.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Div.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="24" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Floating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Positioning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/htmlWithCss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Pos_absolute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="24" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/margins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/FontStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Fonts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/AlineText.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/StylingLinks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/Borders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/padding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/bbcWorkshop/bbc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding />
         </state>
       </provider>
