@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bbc.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/bbcWorkshop/bbc.html">
+      <file leaf-file-name="04-MiniChallange.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/04-MiniChallange.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -52,11 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/asynchronous.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/asynchronous.js" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/linda_jQuery/05/js_ereignisse.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/linda_jQuery/05/jquery_ereignisse.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/linda_jQuery/05/jquery_event_delegation.html" />
         <option value="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/jQuery_DOM_Fun/jQ_meets_DOM.html" />
         <option value="$PROJECT_DIR$/webeC_01/week05/HeadFirst/kap01/anfang/jQuery01.html" />
         <option value="$PROJECT_DIR$/webeC_01/week05/webeC/application.html" />
@@ -103,6 +98,11 @@
         <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/FontStyle.html" />
         <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/StylingLinks.html" />
         <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/bbcWorkshop/bbc.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/javaScript.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/02-Button.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/02-Challange.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/03-Change Styles with JavaScript.html" />
+        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/04-MiniChallange.html" />
       </list>
     </option>
   </component>
@@ -120,7 +120,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="MAMP 5.6.25" />
   <component name="ProjectFrameBounds">
     <option name="y" value="3" />
-    <option name="width" value="1440" />
+    <option name="width" value="1244" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -181,34 +181,8 @@
               <option name="myItemId" value="Web2Course" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WORKSHOP_3" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web2Course" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbcWorkshop" />
+              <option name="myItemId" value="javaScript" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,14 +209,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Web2Course" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbcWorkshop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,7 +373,7 @@
       <workItem from="1478180024296" duration="5131000" />
       <workItem from="1478241357754" duration="11639000" />
       <workItem from="1478289109427" duration="2621000" />
-      <workItem from="1478334830224" duration="19000" />
+      <workItem from="1478334830224" duration="6037000" />
     </task>
     <task id="LOCAL-00001" summary="week02">
       <created>1474979183473</created>
@@ -584,11 +550,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478252996944</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="week08">
+      <created>1478334857358</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1478334857359</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107403000" />
+    <option name="totallyTimeSpent" value="113421000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,10 +573,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="3" width="1440" height="1047" extended-state="0" />
+    <frame x="0" y="3" width="1244" height="1047" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2956081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -686,17 +659,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/data/data.json" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/font/font-awesome/css/font-awesome.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/css/particles-font.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/look/responsive-template-start.jpg" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/look/responsive-template-blog.jpg" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/css/normalize.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/css/particles-grid.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/blog.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/tempWorkshop/index.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung02/JSON_first.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/w2eat/test.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week06_07/w2eat/js/app.js" />
@@ -804,8 +766,96 @@
     <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/padding.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/bbcWorkshop/bbc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="112">
           <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/javaScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/01-innerHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/02-Button.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/02-Challange.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/03-Change Styles with JavaScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/Test02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/padding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/Pos_absolute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/margins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/04-MiniChallange.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding />
         </state>
       </provider>
