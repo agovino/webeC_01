@@ -1,45 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7038a9cf-dd23-44a0-bf36-3c5f39fae8fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/jSon_marco/JSON_Tutorial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/jSon_marco/jquery-3.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/array_functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/forms-with-php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/data/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/lib/jquery-3.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week05/webeC/uebung02/JSON_first.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week06_07/agos_w2Eat/www_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week06_07/stuff/w2eat_patrik/WhereToEat_webeC_SimonGottstein/WhereToEat/lib/jquery-3.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/Project/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/Project/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/arrays.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/aufgabe1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/film-quotes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/flatFileDB.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/hausaufgabe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/jsonData.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/phpInfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/uebungen/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webeC_01/week08/webBeispiele/LoadJsonFile.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week03/workshop/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/call_apply.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/call_apply.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week04/udemyTutorial/object_prototyp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/asynchronous.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/asynchronous.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/requestAsynchron.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_AJAX/Linda_jsAJAX/01-02/workingfolder/ajax/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_JSON/index_json.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/javaScript_JSON/tutorial.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/marco/auswaehlen_javascript_ago.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/marco/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webeC_01/week05/LindaTutorial/marco/jquery.min.js" afterPath="" />
+    <list default="true" id="7038a9cf-dd23-44a0-bf36-3c5f39fae8fa" name="Default" comment="week09">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webeC_01" afterPath="$PROJECT_DIR$/webeC_01" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webeC_01.iml" afterPath="$PROJECT_DIR$/.idea/webeC_01.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webeC_01.iws" />
@@ -69,11 +37,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="form.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/form.php">
+      <file leaf-file-name="ThreeJs.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webeC_01/meco4/ThreeJs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="-91">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loader.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/loader.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trackball.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/trackball.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,68 +74,69 @@
       <list>
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="package_json" />
         <option value="tsconfig.json" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webeC_01" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/Arrays.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/06-Arrays MiniChallenge.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/if-Challange.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/forLoop.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/Functions.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Ajax/test.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/javaScript/ChallengeReaction.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/ReactionTester/css/style.css" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/ReactionTester/js/app.js" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/ReactionTester/ChallengeReaction.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/Table.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/PokemanTable.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/Form2.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/html_and_css/Labels in Form.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Ajax/style.css" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Ajax/jQuery-Ajax Tutorial.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Ajax/main.js" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/FirstjQueryPage_start.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/SelectFilter_intro.htm" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/CreateChange_intro.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/Events_intro.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week05/webeC/uebung02/JSON_first.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/jQuery.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/jQuery02.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/ToggleText.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/Animation.html" />
-        <option value="C:/xampp/htdocs/udemyTutorial/tcWD/jQuery.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/jQuery-Fading.html" />
-        <option value="$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/index.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_2/BasicSelectors_start.htm" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_2/BasicFilters_start.html" />
-        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/JSON_LINDA_TUTORIAL/02-03/workingfolder/json/index.html" />
-        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/jSon_marco/external.json" />
-        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/jSon_marco/JSON_Tutorial.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/Project/style.css" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/Project/index.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/uebungen/test.php" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/uebungen/arrays.php" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/uebungen/phpInfo.php" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/uebungen/jsonData.php" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/webBeispiele/tsconfig.json" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/webBeispiele/LoadJsonFile.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/webBeispiele/how-to-parse-json-file-with-php/css/style.css" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/webBeispiele/how-to-parse-json-file-with-php/index.php" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/uebungen/hausaufgabe.php" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/uebungen/flatFileDB.txt" />
-        <option value="D:/xampp/php/php.ini" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/uebungen/aufgabe1.php" />
-        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/array_functions.php" />
-        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/forms-with-php.html" />
-        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/form.php" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log-box/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/Web2Course/jQuery/Animation.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log-box/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/Page2/Projekte.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/Page2/55-checkout-widget/55-checkout-widget/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/Page2/55-checkout-widget/55-checkout-widget/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/Page2/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/project-tabelle/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/project-tabelle/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log-page1/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log-page1/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/udemyUI/FormValidator.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/udemyUI/jQUI_01.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/udemyUI/accordion.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/udemyUI/accordion.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/navMenu.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/BootStrap.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 02 - Navbar with Dropdowns/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/material-kit-master/material-kit-master/assets/css/material-kit.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/page-1.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/jQueryBootstrap start.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/material-kit-master/material-kit-master/examples/signup-page.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/css/custom.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/logTime.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/js/accordion.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week10/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week10/jQueryBootstrap start.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week10/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTime.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week10/logTime.html" />
+        <option value="$USER_HOME$/Desktop/bootstrap-4.0.0-alpha.5/docs/examples/signin/signin.css" />
+        <option value="$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/signin.css" />
+        <option value="$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/css/signin.css" />
+        <option value="$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/css/custom.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week10/LogIn.html" />
+        <option value="$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/logTheTime.html" />
+        <option value="$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTime.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTime_v2.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTimeV3.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/css/custom.css" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu/projectWebecTimeLog.htm" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTimeV4.html" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/NewList.html" />
+        <option value="$PROJECT_DIR$/webeC_01/meco4/index.html" />
+        <option value="$PROJECT_DIR$/webeC_01/meco4/miserables.json" />
+        <option value="$PROJECT_DIR$/webeC_01/meco4/ThreeJs.html" />
       </list>
     </option>
   </component>
@@ -162,21 +151,15 @@
       <server id="22bb8baa-6966-4729-b1c1-4021c877c05f" name="Unnamed" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from Xampp" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="MAMP 5.6.25" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="width" value="1262" />
-    <option name="height" value="1034" />
+    <option name="x" value="-31" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -201,12 +184,6 @@
               <option name="myItemId" value="webeC_01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webeC_01" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -230,11 +207,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Udemy" />
+              <option name="myItemId" value="meco4" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -252,15 +225,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorials" />
+              <option name="myItemId" value="meco4" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Udemy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_Slim" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,7 +247,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorials" />
+              <option name="myItemId" value="meco4" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3d" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,31 +261,40 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.24583742" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs/udemyTutorial/tcWD" />
+    <property name="last_opened_file_path" value="D:/xampp/htdocs/phpStorm" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="timeClock&#9;FILE&#9;file://C:/Users/bell/Dropbox/Public/icompetence/Semester 05/05 webeC/webeC_01/webeC_01/week08/Project/time-log-box/images/timeClock.JPG" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/webeC_01/week08/uebungen" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Tutorials\Linda\javaScript_JSON\jSon_marco" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\WORKSHOP_3\udemy\Web2Course\jQuery" />
-      <recent name="C:\xampp\htdocs\udemyTutorial\tcWD" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\WORKSHOP_3\udemy\Web2Course" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Project_time_log\bootstrap-4\docs\examples\signin\css" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week10" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\html-css struktur" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project" />
       <recent name="D:\Dropbox\Public\iCompetence\Semester 05\05 webeC\webeC_01\webeC_01\WORKSHOP_3\udemy\Web2Course\ReactionTester" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week06_07\agos_w2Eat" />
-      <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01" />
-      <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/lib" />
-      <recent name="$PROJECT_DIR$/webeC_01/week05/webeC/uebung01/app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\time-log project\tutorials-master\tutorials-master\Part 05 - Jumbotron" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\time-log project\tutorials-master\tutorials-master\Part 05 - Jumbotron\images" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Project_time_log\bootstrap-4\docs\examples\signin\images" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Project_time_log\bootstrap-4\docs\examples\signin\css" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.local web server">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -331,6 +313,10 @@
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -362,11 +348,15 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="local web server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="C:/xampp/htdocs/udemyTutorial/tcWD">
+    <configuration default="false" name="form.php" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost/webeC_01/Tutorials/Udemy/php_Slim/form.php">
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.local web server" />
+    <configuration default="false" name="local web server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/webeC_01">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.form.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Built-in Web Server.local web server" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -429,7 +419,28 @@
       <workItem from="1478548790781" duration="3078000" />
       <workItem from="1478600944220" duration="449000" />
       <workItem from="1478604756324" duration="12012000" />
-      <workItem from="1478677302345" duration="5598000" />
+      <workItem from="1478677302345" duration="8702000" />
+      <workItem from="1478688835316" duration="1296000" />
+      <workItem from="1478690263478" duration="933000" />
+      <workItem from="1478695532563" duration="610000" />
+      <workItem from="1478701063662" duration="12493000" />
+      <workItem from="1478767807690" duration="14698000" />
+      <workItem from="1478848640993" duration="6929000" />
+      <workItem from="1479034108528" duration="18732000" />
+      <workItem from="1479060628925" duration="1946000" />
+      <workItem from="1479062696762" duration="8024000" />
+      <workItem from="1479127974121" duration="2271000" />
+      <workItem from="1479214450295" duration="3603000" />
+      <workItem from="1479313503431" duration="631000" />
+      <workItem from="1479324945562" duration="1242000" />
+      <workItem from="1480321861264" duration="605000" />
+      <workItem from="1480322742102" duration="1140000" />
+      <workItem from="1480325135774" duration="888000" />
+      <workItem from="1480367260735" duration="122000" />
+      <workItem from="1480367543194" duration="23000" />
+      <workItem from="1480367583583" duration="2648000" />
+      <workItem from="1480413750538" duration="1086000" />
+      <workItem from="1480417579661" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="week02">
       <created>1474979183473</created>
@@ -634,13 +645,20 @@
       <option name="project" value="LOCAL" />
       <updated>1478509367510</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="week09">
+      <created>1478686698697</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1478686698697</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186478000" />
+    <option name="totallyTimeSpent" value="270148000" />
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -650,49 +668,219 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="0" width="1262" height="1034" extended-state="0" />
-    <editor active="true" />
+    <frame x="-31" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18552412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38045233" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.66519827" sideWeight="0.38449112" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1400818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29368576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29268292" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5678337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5668135" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36807096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36807096" sideWeight="0.4966722" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22026432" sideWeight="0.6155089" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23641704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36807096" sideWeight="0.4966722" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5033278" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2949002" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29369628" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15627466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29368576" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.4966722" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5678337" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17656587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1400818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23725055" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/draw/typescript-draw.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/draw/typescript-draw.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-filterrow.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-filterrow.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-nestedgrids.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-nestedgrids.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-grouping.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-grouping.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-filtering.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-filtering.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-editing.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-editing.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-paging.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/grid/typescript-grid-paging.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/knob/typescript-knob.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/knob/typescript-knob.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/menu/typescript-menu.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/menu/typescript-menu.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tabs/typescript-tabs.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tabs/typescript-tabs.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tree/typescript-tree.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tree/typescript-tree.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart-columnlocaldata.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart-columnlocaldata.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart-polarseries.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart-polarseries.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart-donutseries.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart-donutseries.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/chart/typescript-chart.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/gauge/typescript-gauge.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/gauge/typescript-gauge.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/input/typescript-input.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/input/typescript-input.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/panel/typescript_panel.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/panel/typescript_panel.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/button/typescript-button.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/button/typescript-button.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/editor/typescript-editor.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/editor/typescript-editor.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/kanban/typescript-kanban.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/kanban/typescript-kanban.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/layout/typescript-layout.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/layout/typescript-layout.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/loader/typescript-loader.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/loader/typescript-loader.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/navbar/typescript-navbar.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/navbar/typescript-navbar.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/rating/typescript-rating.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/rating/typescript-rating.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/ribbon/typescript-ribbon.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/ribbon/typescript-ribbon.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/slider/typescript-slider.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/slider/typescript-slider.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/window/typescript-window.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/window/typescript-window.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/docking/typescript-docking.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/docking/typescript-docking.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/listbox/typescript-listbox.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/listbox/typescript-listbox.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/popover/typescript-popover.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/popover/typescript-popover.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/toolbar/typescript-toolbar.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/toolbar/typescript-toolbar.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tooltip/typescript-tooltip.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tooltip/typescript-tooltip.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/treemap/typescript-treemap.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/treemap/typescript-treemap.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/bargauge/typescript-bargauge.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/bargauge/typescript-bargauge.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/calendar/typescript-calendar.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/calendar/typescript-calendar.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/checkbox/typescript-checkbox.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/checkbox/typescript-checkbox.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/combobox/typescript-combobox.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/combobox/typescript-combobox.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dragdrop/typescript-dragdrop.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dragdrop/typescript-dragdrop.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/expander/typescript-expander.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/expander/typescript-expander.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/listmenu/typescript-listmenu.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/listmenu/typescript-listmenu.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/sortable/typescript-sortable.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/sortable/typescript-sortable.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/splitter/typescript-splitter.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/splitter/typescript-splitter.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tagcloud/typescript-tagcloud.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/tagcloud/typescript-tagcloud.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/textarea/typescript-textarea.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/textarea/typescript-textarea.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/treegrid/typescript-treegrid-virtualmode.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/treegrid/typescript-treegrid-virtualmode.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/treegrid/typescript-treegrid.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/treegrid/typescript-treegrid.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-editing.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-editing.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-paging.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-paging.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-filtering.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-filtering.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-sorting.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable-sorting.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datatable/typescript-datatable.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dockpanel/typescript-dockpanel.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dockpanel/typescript-dockpanel.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scheduler/typescript-scheduler.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scheduler/typescript-scheduler.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scheduler/typescript-scheduler-resources.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scheduler/typescript-scheduler-resources.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scrollbar/typescript-scrollbar.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scrollbar/typescript-scrollbar.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/validator/typescript-validator.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/validator/typescript-validator.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/fileupload/typescript-fileupload.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/fileupload/typescript-fileupload.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scrollview/typescript-scrollview.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/scrollview/typescript-scrollview.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/bulletchart/typescript-bulletchart.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/bulletchart/typescript-bulletchart.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/buttongroup/typescript-buttongroup.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/buttongroup/typescript-buttongroup.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/colorpicker/typescript-colorpicker.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/colorpicker/typescript-colorpicker.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/lineargauge/typescript-lineargauge.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/lineargauge/typescript-lineargauge.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/maskedinput/typescript-maskedinput.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/maskedinput/typescript-maskedinput.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/numberinput/typescript-numberinput.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/numberinput/typescript-numberinput.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/progressbar/typescript-progressbar.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/progressbar/typescript-progressbar.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/radiobutton/typescript-radiobutton.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/radiobutton/typescript-radiobutton.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/complexinput/typescript-complexinput.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/complexinput/typescript-complexinput.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dropdownlist/typescript-dropdownlist.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dropdownlist/typescript-dropdownlist.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/notification/typescript-notification.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/notification/typescript-notification.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/switchbutton/typescript-switchbutton.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/switchbutton/typescript-switchbutton.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datetimeinput/typescript-datetimeinput.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/datetimeinput/typescript-datetimeinput.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dockinglayout/typescript-dockinglayout.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dockinglayout/typescript-dockinglayout.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/navigationbar/typescript-navigationbar.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/navigationbar/typescript-navigationbar.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/passwordinput/typescript-passwordinput.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/passwordinput/typescript-passwordinput.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/rangeselector/typescript-rangeselector.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/rangeselector/typescript-rangeselector.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dropdownbutton/typescript-dropdownbutton.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/dropdownbutton/typescript-dropdownbutton.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/formattedinput/typescript-formattedinput.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/formattedinput/typescript-formattedinput.js.map" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/responsivepanel/typescript-responsivepanel.js" />
+        <option value="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/typescript/responsivepanel/typescript-responsivepanel.js.map" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -737,247 +925,225 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webeC_01/week05/webeC/uebung02/JSON_first.html">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week10/LogIn.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week10/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/css/signin.css" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/starter-template/index.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week10/index.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/jQueryBootstrap_projects.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/jQueryBootstrap start.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/page-1.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="13" column="74" lean-forward="false" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/LoesungenDerUebungen/05/img/01d.png" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/ReactionTester/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/ReactionTester/ChallengeReaction.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/ReactionTester/js/app.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/ToggleText.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/LoesungenDerUebungen/05/js/app.js" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/LoesungenDerUebungen/05/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/jQuery-Fading.html" />
-    <entry file="file://C:/xampp/htdocs/udemyTutorial/tcWD/jQuery.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/jQuery.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/jQuery02.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/index1.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/Animation.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/Events_intro.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/Animations_intro.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/AJAX_intro.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/WORKSHOP_3/udemy/Web2Course/jQuery/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_2/BasicSelectors_start.htm" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_2/BasicFilters_start.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/linda/jQueryAndAjax/jQuery_Essential/Ch_1/sampletextcontent.txt" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/JSON_LINDA_TUTORIAL/01-04/json/index.html">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week10/logTime.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="-1241">
+          <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/JSON_LINDA_TUTORIAL/02-01/json/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/JSON_LINDA_TUTORIAL/02-02/json/index.html">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-box/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/JSON_LINDA_TUTORIAL/02-03/workingfolder/json/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/jSon_marco/jquery-3.1.1.js">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/logTheTime.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/logTime.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/index.html" />
+    <entry file="file://$PROJECT_DIR$/../FlipClock-master/compiled/flipclock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="11026" lean-forward="false" selection-start-line="5" selection-start-column="11022" selection-end-line="5" selection-end-column="11026" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu/listmenu-fluid-size.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu/nestedlistviews.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTimeV3.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="47" column="23" lean-forward="false" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu/defaultfunctionality.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/linda_jQuery/05/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTimeV4.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTime.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/logTheTime_v2.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/NewList.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxresponse/responsive.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/jSon_marco/external.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/jSon_marco/JSON_Tutorial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/javaScript_JSON/tutorial.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/phpInfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/arrays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/jsonData.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/webBeispiele/video.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/webBeispiele/LoadJsonFile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/webBeispiele/how-to-parse-json-file-with-php/posts.json">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxpopover/defaultfunctionality.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/webBeispiele/how-to-parse-json-file-with-php/json.php">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxpopover/javascript-modal-popover.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/webBeispiele/how-to-parse-json-file-with-php/index.php">
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxpopover/javascript-popover-bottom.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxpopover/javascript-popover-positioning.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxpopover/javascript-popover-rtl.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxnavigationbar/cookies.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxscrollview/defaultfunctionality.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxslider/defaultfunctionality.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxtextarea/defaultfunctionality.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxpanel/dockpanel.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/udemyUI/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/udemyUI/FormValidator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/udemyUI/jQUI_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu/projectWebecTimeLog.htm" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/package.json" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/index.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/miserables.json" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxdatatable/javascript-datatable-advanced-filtering.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/js/three.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="464" lean-forward="false" selection-start-line="30" selection-start-column="455" selection-end-line="30" selection-end-column="464" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/webBeispiele/how-to-parse-json-file-with-php/css/style.css">
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/loader.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-931">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/film-quotes.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/xampp/php/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/flatFileDB.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/hausaufgabe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/uebungen/aufgabe1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/array_functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/forms-with-php.html">
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/trackball.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Udemy/php_Slim/form.php">
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/ThreeJs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="-91">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
