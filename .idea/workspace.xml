@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7038a9cf-dd23-44a0-bf36-3c5f39fae8fa" name="Default" comment="">
+    <list default="true" id="7038a9cf-dd23-44a0-bf36-3c5f39fae8fa" name="Default" comment="week10">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webeC_01" afterPath="$PROJECT_DIR$/webeC_01" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,32 +31,34 @@
     <favorites_list name="webeC_01" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreeJs.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webeC_01/meco4/ThreeJs.html">
+    <leaf>
+      <file leaf-file-name="LogIn.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/LogIn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="181">
+              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="185" column="1" lean-forward="false" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loader.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/loader.html">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/Material/time.log-box_smart-master/time.log-box_smart-master/html-prototyping/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trackball.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/trackball.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="442">
+              <caret line="26" column="103" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="103" />
               <folding />
             </state>
           </provider>
@@ -75,15 +77,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>username</find>
+      <find>password</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log-box/index.html" />
-        <option value="$PROJECT_DIR$/webeC_01/Tutorials/Udemy/Web2Course/jQuery/Animation.html" />
-        <option value="$PROJECT_DIR$/webeC_01/week08/Project/time-log-box/css/style.css" />
         <option value="$PROJECT_DIR$/webeC_01/week08/Project/Page2/Projekte.html" />
         <option value="$PROJECT_DIR$/webeC_01/week08/Project/Page2/55-checkout-widget/55-checkout-widget/index.html" />
         <option value="$PROJECT_DIR$/webeC_01/week08/Project/Page2/55-checkout-widget/55-checkout-widget/css/style.css" />
@@ -132,6 +137,9 @@
         <option value="$PROJECT_DIR$/webeC_01/meco4/index.html" />
         <option value="$PROJECT_DIR$/webeC_01/meco4/miserables.json" />
         <option value="$PROJECT_DIR$/webeC_01/meco4/ThreeJs.html" />
+        <option value="$PROJECT_DIR$/webeC_01/meco4/3d/three.js-master/examples/loader.html" />
+        <option value="$PROJECT_DIR$/webeC_01/webeC_Project/css/style.css" />
+        <option value="$PROJECT_DIR$/webeC_01/webeC_Project/LogIn.html" />
       </list>
     </option>
   </component>
@@ -148,9 +156,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="MAMP 5.6.25" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="x" value="113" />
+    <option name="y" value="7" />
+    <option name="width" value="1595" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -171,6 +180,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -186,22 +196,8 @@
               <option name="myItemId" value="webeC_01" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webeC_01" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meco4" />
+              <option name="myItemId" value="week10" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -219,11 +215,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="meco4" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="week08" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,17 +233,152 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="meco4" />
+              <option name="myItemId" value="week08" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="3d" />
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jqwidgets-ver4.3.0" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery-ui-1.12.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html-css struktur" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome-4.7.0" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webeC_Project" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,19 +394,19 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Public\iCompetence\Semester 05\05 webeC\webeC_01\webeC_01\webeC_Project\Navigation" />
+      <recent name="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\time-log project\tutorials-master\tutorials-master\Part 05 - Jumbotron" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\time-log project\tutorials-master\tutorials-master\Part 05 - Jumbotron\images" />
+      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Project_time_log\bootstrap-4\docs\examples\signin\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Project_time_log\bootstrap-4\docs\examples\signin\css" />
       <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week10" />
       <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\html-css struktur" />
       <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project" />
       <recent name="D:\Dropbox\Public\iCompetence\Semester 05\05 webeC\webeC_01\webeC_01\WORKSHOP_3\udemy\Web2Course\ReactionTester" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\time-log project\tutorials-master\tutorials-master\Part 05 - Jumbotron" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\week08\Project\time-log project\tutorials-master\tutorials-master\Part 05 - Jumbotron\images" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Project_time_log\bootstrap-4\docs\examples\signin\images" />
-      <recent name="C:\Users\bell\Dropbox\Public\icompetence\Semester 05\05 webeC\webeC_01\webeC_01\Project_time_log\bootstrap-4\docs\examples\signin\css" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.local web server">
@@ -323,7 +450,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -435,7 +562,15 @@
       <workItem from="1480367583583" duration="2648000" />
       <workItem from="1480413750538" duration="1086000" />
       <workItem from="1480417579661" duration="1077000" />
-      <workItem from="1480419358335" duration="373000" />
+      <workItem from="1480419358335" duration="622000" />
+      <workItem from="1480427669207" duration="798000" />
+      <workItem from="1480491488935" duration="557000" />
+      <workItem from="1481474787794" duration="198000" />
+      <workItem from="1481482398431" duration="11000" />
+      <workItem from="1481482431492" duration="78000" />
+      <workItem from="1481482519047" duration="1269000" />
+      <workItem from="1481485447956" duration="1611000" />
+      <workItem from="1481487301295" duration="7050000" />
     </task>
     <task id="LOCAL-00001" summary="week02">
       <created>1474979183473</created>
@@ -661,11 +796,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480418638055</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="week10">
+      <created>1480419739427</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1480419739427</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270952000" />
+    <option name="totallyTimeSpent" value="282773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -677,12 +819,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="113" y="7" width="1595" height="1034" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3861066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34527686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2716593" sideWeight="0.38449112" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19512194" sideWeight="0.38449112" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1400818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29268292" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -938,55 +1080,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webeC_01/week10/LogIn.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week10/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/css/signin.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/starter-template/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week10/index.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/jQueryBootstrap_projects.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/jQueryBootstrap start.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-page1/page-1.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="74" lean-forward="false" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week10/logTime.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1241">
-          <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/css/custom.css" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-box/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/logTheTime.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 03 - Fixed Footer/logTime.html" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/index.html" />
-    <entry file="file://$PROJECT_DIR$/../FlipClock-master/compiled/flipclock.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/tutorials-master/tutorials-master/Part 05 - Jumbotron/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="11026" lean-forward="false" selection-start-line="5" selection-start-column="11022" selection-end-line="5" selection-end-column="11026" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/Project_time_log/bootstrap-4/docs/examples/signin/css/style.css" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu/listmenu-fluid-size.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
@@ -1120,7 +1213,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxlistmenu/projectWebecTimeLog.htm" />
     <entry file="file://$PROJECT_DIR$/webeC_01/meco4/package.json" />
-    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/index.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/meco4/miserables.json" />
     <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/demos/jqxdatatable/javascript-datatable-advanced-filtering.htm">
       <provider selected="true" editor-type-id="text-editor">
@@ -1133,31 +1225,148 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="30" column="464" lean-forward="false" selection-start-line="30" selection-start-column="455" selection-end-line="30" selection-end-column="464" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/loader.html">
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/loader.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/ThreeJs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/three.js-master/examples/loader.html" />
     <entry file="file://$PROJECT_DIR$/webeC_01/meco4/3d/trackball.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/LoesungenDerUebungen/01/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/Tutorials/Linda/linda_jQuery/links_jquery_basics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/navMenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/time-log-box/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/time.log-box_smart-master/time.log-box_smart-master/html-prototyping/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/Navigation/login_ago.html" />
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/time.log-box_smart-master/time.log-box_smart-master/html-prototyping/inc/img/default-logo_trans.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/time.log-box_smart-master/time.log-box_smart-master/html-prototyping/inc/img/stats_icon_trans.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/time.log-box_smart-master/time.log-box_smart-master/html-prototyping/inc/img/stats_icon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week10/LogIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week10/logTime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/material-kit-master/material-kit-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/material-kit-master/material-kit-master/changelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/jqwidgets-ver4.3.0/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/week08/Project/time-log project/project-tabelle/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/Material/time.log-box_smart-master/time.log-box_smart-master/html-prototyping/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="103" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="103" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webeC_01/meco4/ThreeJs.html">
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="638">
+          <caret line="185" column="1" lean-forward="false" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webeC_01/webeC_Project/LogIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
